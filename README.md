@@ -1,12 +1,5 @@
 # CSP-Sudoku-Solver
-
-/**********************************************************
-* HW3: Constraint Satisfaction Problems
-* Comp 131
-* README
-* By Patrick Gavazzi (pgavaz01)
-*
-*********************************************************/
+By Patrick Gavazzi (pgavaz01)
 
 
 ## Files:
