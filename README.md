@@ -1,4 +1,5 @@
 # CSP-Sudoku-Solver
+COMP 131
 By Patrick Gavazzi (pgavaz01)
 
 
